@@ -1,0 +1,10 @@
+https://httpbin.org/status/200
+https://httpbin.org/status/404
+https://www.alura.com.br
+https://bluwaysistemas.ddns.net
+ds
+https://www.globo.com
+
+
+https://google.com
+
